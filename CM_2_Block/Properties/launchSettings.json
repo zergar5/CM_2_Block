@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CM_2_Block": {
+      "commandName": "Project",
+      "workingDirectory": "..\\CM_2_Block\\"
+    }
+  }
+}
